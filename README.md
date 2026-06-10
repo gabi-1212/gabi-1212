@@ -5,6 +5,7 @@ Welcome to my GitHub profile.
 ## 💻 Skills
 
 - **iOS/macOS Development:** Xcode, Swift, SwiftUI
+- **Android/iOS/Web Developement**: React Native
 - **Web Development:** HTML, CSS, Typescript, React, AngularJS, Javascript
 - **Game Development:** Roblox Studio, Lua
 
