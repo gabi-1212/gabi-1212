@@ -16,7 +16,7 @@ I'm passionate about building beautiful mobile apps, modern web frontends, and i
 ## 📫 How to Reach Me
 
 - GitHub: [gabi-1212](https://github.com/gabi-1212)
-- Discord: [My Server](https://discord.gg/PFGzqGXehh)
+- Company: [Website](https://nova-studios.dev)
 
 ---
 
